@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/knakto)](https://github.com/oakoudad/badge42)
-
 My name is Kita.
 
 - 🌱 I’m currently learning nginx webserver
@@ -15,3 +13,6 @@ My name is Kita.
 
 
   ![Resume](Resume.png)
+
+
+[![<username>'s 42 stats](https://badge.mediaplus.ma/binary/knakto)](https://github.com/oakoudad/badge42)
