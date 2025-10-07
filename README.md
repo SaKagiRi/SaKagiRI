@@ -15,4 +15,4 @@ My name is Kita.
   ![Resume](Resume.png)
 
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/binary/knakto)](https://github.com/oakoudad/badge42)
+<!-- [![<username>'s 42 stats](https://badge.mediaplus.ma/binary/knakto)](https://github.com/oakoudad/badge42) -->
