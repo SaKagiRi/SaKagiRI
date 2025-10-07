@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**SaKagiRi/SaKagiRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/knakto)](https://github.com/oakoudad/badge42)
 
-Here are some ideas to get you started:
+My name is Kita.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning nginx webserver
+- 🏫 I'm currently study in Software engineering 42Bangkok at KMITL Science faculty.
+- 📫 How to reach me: kasichonooo@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I built my own desktop environment using NixOS and Hyprland.
+
+
+══════════════════════════════════════════════════════════════════════
+
+
+  ![Resume](resume.png)
